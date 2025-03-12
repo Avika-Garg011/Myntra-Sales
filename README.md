@@ -12,7 +12,7 @@ The dataset contains dummy sales data for Myntra and includes:
   - User ratings, brand-wise sales, order counts, and time-based trends
 
 ## 🔍 Recommended Analysis
-This Power BI dashboard covers the following **business insights**:
+This Power BI dashboard covers the following **business insights**:<br>
 1️⃣ **Business KPIs:** <br>
 &nbsp;&nbsp;&nbsp;Total Revenue, Orders, Average Sales Amount, Average Rating, and Total Products  
 2️⃣ **Filtering Options:** <br>
@@ -39,9 +39,9 @@ This Power BI dashboard covers the following **business insights**:
 &nbsp;&nbsp;&nbsp;Understanding customer satisfaction with an **Average Rating KPI** 
 
 ## 📊 DASHBOARDS
-![Myntra Dashboard Image 1](https://github.com/user-attachments/assets/0209c5bc-828e-4d66-9bc1-4dd873b1ad98) 
+![Myntra Dashboard Image 1](https://github.com/user-attachments/assets/cbf51e1c-8cd0-44c7-9260-c8f595f04962)
 
-![Myntra Dashboard Image 2](https://github.com/user-attachments/assets/f68ee64c-7531-41be-ac02-8303e4bf8b0f)
+![Myntra Dashboard Image 2](https://github.com/user-attachments/assets/39acddbb-3b7d-4bd0-a7bb-ff62c4572eb0)
 
 ## 📌 Key Performance Indicators (KPIs)
 📊 **Total Orders:** 3.50K  
